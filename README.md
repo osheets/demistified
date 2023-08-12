@@ -2,7 +2,7 @@
 
 # demistified
 
-A blogpost-sized rundown of stable diffusion's textual inversion, its disruptive impact in the art industry, and a test of a preliminary version of Mist, a cloaking tool that modifies art to ruin stable diffusion's models. My thoughts on it as someone who is both an aspiring data scientist and art hobbyist.
+A blogpost-sized rundown of stable diffusion's textual inversion, its disruptive impact in the art industry, and a test of a preliminary version of [Mist](https://github.com/mist-project/mist), a cloaking tool that modifies art to ruin stable diffusion's models. My thoughts on it as someone who is both an aspiring data scientist and art hobbyist.
 
 [Click here to view the HTML webpage for this notebook](https://osheets.github.io/demistified/)
 
